@@ -1,6 +1,6 @@
 # Factorial Calculator
 
-This Java program calculates the factorial of a given non-negative integer using recursion. A factorial is the product of all positive integers less than or equal to the number. For example, the factorial of 4 is \( 4 \times 3 \times 2 \times 1 = 24 \).
+This Java program calculates the factorial of a given non-negative integer using recursion. A factorial is the product of all positive integers less than or equal to the number. For example, the factorial of 4 is \( 4 \* 3 \* 2 \* 1 = 24 \).
 
 ---
 
